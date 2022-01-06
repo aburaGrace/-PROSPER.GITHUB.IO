@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: cadetblue;
+    height: 20vh;
+}
+ul{
+    text-align: center;
+    list-style: none;
+
+}
+
+ul li{
+    display: inline-block;
+    margin-top: 40px;
+    padding: 50px ;
+}
+ul li a{
+    color: navy;
+}
+ul li a:hover{
+    outline: none;
+    color: orangered;
+
+ul li brad{
+outline: none;
+color::before
+
+}
+
+.main{
+    background-color: white;
+    height: 200vh;
+}
+p{
+    padding: 10px;
+}
+<div> <ol type="CATEGORIES">{
+margin: 50px;
+padding: 20px;
+float:left;
+color:white;
+
+}
+
+
+
+
+
+
+.down{
+    height: 50vh;
+    background-color: chartreuse;
+}
+.down ul{
+    text-align: center;
+    list-style: none;
+
+}
+.down ul li a{
+    color: white;
+}
+.pig{
+    width: 300px;
+    text-align: center,
+
+}
+.down ul li
+
+advertise{
+
+width: 200px;
+height: 50pc
+
+
+
+
+}
+
+
+
+
+
+}
+
+
+
+
